@@ -1,9 +1,5 @@
 ### Olá! Eu sou o José Luiz! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-luiz-da-silva-barbosa-a368631a3)
-
-![José Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=joseluizzl&show_icons=true&theme=dracula)
-
 ## Tecnologias que utilizo no meu dia a dia:
 
 <div style="display: inline_block"><br/>
@@ -19,4 +15,4 @@ Fiz uma residência em Programação pelo Serratec, Parque Tecnológico da Regi�
 #### Contate-me aqui:
 
 [Envie-me um e-mail](mailto:joseluizjlsb@gmail.com) <br/>
-[Meu LinkedIn](www.linkedin.com/in/josé-luiz-da-silva-barbosa-a368631a3) <br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-luiz-da-silva-barbosa-a368631a3)
