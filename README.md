@@ -14,7 +14,7 @@
 </div><br/>
 
 
-Atualmente sou residente em TIC-Serratec. Buscando a cada dia aprimorar meus conhecimentos na área da programação e desenvolvimento de software!
+Fiz uma residência em Programação pelo Serratec, Parque Tecnológico da Região Serrana. Atualmente trabalho como suporte técnico e estou buscando a cada dia aprimorar meus conhecimentos na área da programação e desenvolvimento de software!
 
 #### Contate-me aqui:
 
